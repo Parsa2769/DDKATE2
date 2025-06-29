@@ -79,10 +79,7 @@
 
 نصب این ربات فوق‌العاده ساده است. کافیست با دسترسی `root` به ترمینال سرور اوبونتو خود متصل شده و **فقط یک دستور** را اجرا کنید:
 
-```bash
-# YOUR_GITHUB_USERNAME را با نام کاربری گیت‌هاب خود و ddkatepanel را با نام ریپازیتوری خود جایگزین کنید.
-BASH_URL="[https://raw.githubusercontent.com/Parsa2769/DDKATE2/main/install.sh](https://raw.githubusercontent.com/Parsa2769/DDKATE2/main/install.sh)"
-bash <(curl -sL $BASH_URL)
+```bash <(curl -sL https://raw.githubusercontent.com/Parsa2769/DDKATE2/main/install.sh)
 ```
 اسکریپت نصب به صورت خودکار تمام کارها را انجام می‌دهد و در حین اجرا، اطلاعات لازم (دامنه، توکن ربات و آیدی ادمین) را از شما دریافت می‌کند. پس از چند دقیقه، ربات شما آماده استفاده خواهد بود!
 
