@@ -5,11 +5,13 @@
 </p>
 <br/>
 <p align="center">
-    <a href="https://t.me/parsamoradi199_support" target="_blank">
+    <!-- لینک تلگرام را با آیدی گروه یا کانال خودتان جایگزین کنید -->
+    <a href="https://t.me/parsamoradi199" target="_blank">
         <img src="https://img.shields.io/badge/پشتیبانی%20تلگرام-ddkate-blue?style=for-the-badge&logo=telegram" alt="Telegram Support"/>
     </a>
-    <a href="https://github.com/YOUR_USERNAME/ddkatepanel" target="_blank">
-        <img src="https://img.shields.io/github/stars/YOUR_USERNAME/ddkatepanel?style=for-the-badge&logo=github" alt="GitHub Stars"/>
+    <!-- لینک گیت‌هاب را با آدرس ریپازیتوری خودتان جایگزین کنید -->
+    <a href="https://github.com/Parsa2769/DDKATE2" target="_blank">
+        <img src="https://img.shields.io/github/stars/Parsa2769/DDKATE2?style=for-the-badge&logo=github" alt="GitHub Stars"/>
     </a>
 </p>
 
@@ -79,7 +81,7 @@
 
 ```bash
 # YOUR_GITHUB_USERNAME را با نام کاربری گیت‌هاب خود و ddkatepanel را با نام ریپازیتوری خود جایگزین کنید.
-BASH_URL="[https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/ddkatepanel/main/install.sh](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/ddkatepanel/main/install.sh)"
+BASH_URL="[https://raw.githubusercontent.com/Parsa2769/DDKATE2/main/install.sh](https://raw.githubusercontent.com/Parsa2769/DDKATE2/main/install.sh)"
 bash <(curl -sL $BASH_URL)
 ```
 اسکریپت نصب به صورت خودکار تمام کارها را انجام می‌دهد و در حین اجرا، اطلاعات لازم (دامنه، توکن ربات و آیدی ادمین) را از شما دریافت می‌کند. پس از چند دقیقه، ربات شما آماده استفاده خواهد بود!
@@ -89,10 +91,15 @@ bash <(curl -sL $BASH_URL)
 ## ❓ سوالات متداول (FAQ)
 
 برای مشاهده سوالات متداول و دریافت پشتیبانی، می‌توانید به گروه تلگرامی ما بپیوندید.
-[لینک گروه پشتیبانی ddkate](https://t.me/parsamoradi199_support)
+[لینک گروه پشتیبانی ddkate](https://t.me/parsamoradi199)
 
 ---
 
+## ❤️ حمایت مالی
 
+اگر از پروژه **ddkate Panel** لذت بردید و تمایل دارید از توسعه و به‌روزرسانی‌های آینده آن حمایت کنید، می‌توانید از طریق روش‌های زیر به ما کمک کنید. حمایت شما باعث دلگرمی ما و ادامه رایگان ماندن این پروژه خواهد شد.
+
+-   **ارز دیجیتال (ton):**
+    `UQARtZ8HiR9iFVkiE8Ie9D1lO_5sWJp6YjpCEyBijt0Me_L6`
 
 🙏 از حمایت شما سپاسگزاریم!
